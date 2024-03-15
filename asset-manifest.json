@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83382c3a.css",
+    "main.js": "/static/js/main.622c9383.js",
+    "static/js/453.92016fed.chunk.js": "/static/js/453.92016fed.chunk.js",
+    "static/media/web.png": "/static/media/web.660efa16eee6e4b143cc.png",
+    "static/media/webcourse.png": "/static/media/webcourse.47cd978d16fb2e07c43f.png",
+    "static/media/owner1.jpg": "/static/media/owner1.19336339e63a5183e2ae.jpg",
+    "static/media/graphiccourse.png": "/static/media/graphiccourse.66ca391affb5cb8bd047.png",
+    "static/media/owner3.jpg": "/static/media/owner3.c97b1981733d3b299772.jpg",
+    "static/media/worldpresscourse.png": "/static/media/worldpresscourse.604bf66cd5a8f6e6cfa3.png",
+    "static/media/marketing.png": "/static/media/marketing.9cbfda5d3e7fedb807ed.png",
+    "static/media/heroimg.png": "/static/media/heroimg.630ecd2f593338924457.png",
+    "static/media/graphic.png": "/static/media/graphic.1a279b78642c90f9a677.png",
+    "static/media/app.png": "/static/media/app.7fc7f8610c828af44f44.png",
+    "static/media/realestate.png": "/static/media/realestate.e6921b159a9e3d18e3ca.png",
+    "static/media/seocourse.png": "/static/media/seocourse.c6525d5addb2732dcc78.png",
+    "static/media/contentcourse.png": "/static/media/contentcourse.5b25eb0418c255a0f15b.png",
+    "static/media/video.png": "/static/media/video.701375ea2c9d8bf31216.png",
+    "static/media/logo.png": "/static/media/logo.74dd2dd2d248293512f9.png",
+    "static/media/shopifycourse.png": "/static/media/shopifycourse.787f084d71c11701ce70.png",
+    "static/media/owner22.jpg": "/static/media/owner22.c7ce94329bc01f55dd7c.jpg",
+    "static/media/whtsappicon.jpeg": "/static/media/whtsappicon.c673c340bcefd3eff5fa.jpeg",
+    "index.html": "/index.html",
+    "main.83382c3a.css.map": "/static/css/main.83382c3a.css.map",
+    "main.622c9383.js.map": "/static/js/main.622c9383.js.map",
+    "453.92016fed.chunk.js.map": "/static/js/453.92016fed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83382c3a.css",
+    "static/js/main.622c9383.js"
+  ]
+}
